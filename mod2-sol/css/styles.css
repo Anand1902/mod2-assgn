@@ -1,0 +1,31 @@
+h1 {
+    text-align:center;
+    color: blueviolet;
+  }
+#p1 {
+    background-color: aqua;
+    widt
+    height: 20px;
+    color: white;
+    margin: 0px;
+    text-align:centre;
+}
+.row {
+    width: 100%;
+}
+#p2 {
+    background-color: aqua;
+    width: 70px;
+    height: 20px;
+    color: white;
+    margin: 0px;
+    text-align:centre;
+}
+#span {
+    background-color: gray;
+}
+div {
+    background-color: gray;
+    margin-right: 50px;
+    margin-left: 20px;
+}
