@@ -6,4 +6,4 @@
     };
     window.byeSpeaker = byeSpeaker;
 })(window);
-© 2020 GitHub, Inc.
+// © 2020 GitHub, Inc.//
