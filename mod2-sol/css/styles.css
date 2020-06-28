@@ -209,6 +209,13 @@ section, section > h2 {
 	border: 1px solid black;
 }
 
+<<<<<<< HEAD
+=======
+.row {
+
+}
+
+>>>>>>> 108a04e281b5d7b15ab37339af68fed89f71872a
 #section-1 {
 	background-color: #00E1EF;
 }
@@ -231,4 +238,8 @@ section, section > h2 {
 
 #section-3 > h2 {
 	background-color: #EC80FF;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 108a04e281b5d7b15ab37339af68fed89f71872a
